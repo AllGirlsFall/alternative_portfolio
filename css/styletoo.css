@@ -1,0 +1,48 @@
+.about {
+    padding: 10.5%;
+}
+
+.about h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 6rem;
+    padding: 1%;
+}
+
+.about img {
+    padding: 1% 0 5% 0;
+}
+
+.about p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.90rem;
+    padding: 2% 7% 2% 13%;
+}
+
+
+.thumbnail p, .caption h3{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.work {
+    padding: 1% 0 10% 0;
+}
+
+.work h1{
+   font-family: 'Roboto Condensed', sans-serif;
+   font-size: 4rem;
+   padding:  1.25%;
+}
+
+.contactform {
+    padding: 10%;
+    font-family: 'Roboto Condensed', sans-serif;       
+}
+
+.contactform h1 {
+    font-family: 'Roboto Condensed', sans-serif;       
+    padding: 0 0 3% 0;
+}
+
+.navbar-fixed-bottom {
+    font-family: 'Roboto Condensed', sans-serif;
+}
